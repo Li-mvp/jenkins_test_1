@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro.lan",
+    "children" : [ {
+      "name" : "98106-MainThread",
+      "children" : [ {
+        "name" : "Test1.test_1",
+        "uid" : "8b25545baa98e59a",
+        "parentUid" : "58cbd84c890cbfefed4b1963c2228932",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615006665815,
+          "stop" : 1615006665827,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test1.test_2",
+        "uid" : "5ced0945c468d592",
+        "parentUid" : "58cbd84c890cbfefed4b1963c2228932",
+        "status" : "passed",
+        "time" : {
+          "start" : 1615006665845,
+          "stop" : 1615006665849,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test1.test_3",
+        "uid" : "7f396df9b48a4cc9",
+        "parentUid" : "58cbd84c890cbfefed4b1963c2228932",
+        "status" : "passed",
+        "time" : {
+          "start" : 1615006665860,
+          "stop" : 1615006665865,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "58cbd84c890cbfefed4b1963c2228932"
+    } ],
+    "uid" : "6bba372ab39975f28d6baef8a7b77148"
+  } ]
+}

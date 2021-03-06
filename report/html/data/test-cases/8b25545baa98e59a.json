@@ -1,0 +1,67 @@
+{
+  "uid" : "8b25545baa98e59a",
+  "name" : "Test1.test_1",
+  "fullName" : "test_1.Test1.test_1",
+  "historyId" : "887b5cfa45a881024550d9971248749c",
+  "time" : {
+    "start" : 1615006665815,
+    "stop" : 1615006665827,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "self = <test_1.Test1 object at 0x7f87c95e5a60>\n\n    def test_1(self):\n        print(\"test1\")\n>       assert False\nE       assert False\n\nscripts/test_1.py:5: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro.lan"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "98106-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "testClass",
+    "value" : "test_1"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1.test_1"
+  }, {
+    "name" : "package",
+    "value" : "test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8b25545baa98e59a.json",
+  "parameterValues" : [ ]
+}
