@@ -3,39 +3,39 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "Test1.test_1",
-    "uid" : "8b25545baa98e59a",
+    "uid" : "91c006532a37707b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1615006665815,
-      "stop" : 1615006665827,
-      "duration" : 12
+      "start" : 1615013464593,
+      "stop" : 1615013464607,
+      "duration" : 14
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Test1.test_2",
-    "uid" : "5ced0945c468d592",
+    "uid" : "76dd1c44a70e009a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1615006665845,
-      "stop" : 1615006665849,
-      "duration" : 4
+      "start" : 1615013464623,
+      "stop" : 1615013464626,
+      "duration" : 3
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Test1.test_3",
-    "uid" : "7f396df9b48a4cc9",
+    "uid" : "51e14193eb3039f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1615006665860,
-      "stop" : 1615006665865,
-      "duration" : 5
+      "start" : 1615013464640,
+      "stop" : 1615013464644,
+      "duration" : 4
     },
     "flaky" : false,
     "newFailed" : false,

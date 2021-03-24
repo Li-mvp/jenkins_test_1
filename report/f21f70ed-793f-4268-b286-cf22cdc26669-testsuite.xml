@@ -1,12 +1,12 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1615006665815" stop="1615006665865">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1615019352001" stop="1615019352065">
   <name>test_1</name>
   <labels/>
   <test-cases>
-    <test-case start="1615006665815" status="failed" stop="1615006665827">
+    <test-case start="1615019352001" status="failed" stop="1615019352015">
       <name>Test1.test_1</name>
       <failure>
         <message>AssertionError: assert False</message>
-        <stack-trace>self = &lt;test_1.Test1 object at 0x7f87c95e5a60&gt;
+        <stack-trace>self = &lt;test_1.Test1 object at 0x7fe6bc5e4af0&gt;
 
     def test_1(self):
         print("test1")
@@ -18,31 +18,31 @@ scripts/test_1.py:5: AssertionError</stack-trace>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="98106-MainThread"/>
+        <label name="thread" value="1938-MainThread"/>
         <label name="host" value="MacBook-Pro.lan"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1615006665845" status="passed" stop="1615006665849">
+    <test-case start="1615019352034" status="passed" stop="1615019352043">
       <name>Test1.test_2</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="98106-MainThread"/>
+        <label name="thread" value="1938-MainThread"/>
         <label name="host" value="MacBook-Pro.lan"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1615006665860" status="passed" stop="1615006665865">
+    <test-case start="1615019352057" status="passed" stop="1615019352065">
       <name>Test1.test_3</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="98106-MainThread"/>
+        <label name="thread" value="1938-MainThread"/>
         <label name="host" value="MacBook-Pro.lan"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>

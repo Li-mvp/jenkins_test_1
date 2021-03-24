@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8b25545baa98e59a",
+      "uid" : "91c006532a37707b",
       "status" : "failed",
       "statusDetails" : "AssertionError: assert False",
       "time" : {
-        "start" : 1615006665815,
-        "stop" : 1615006665827,
-        "duration" : 12
+        "start" : 1615013464593,
+        "stop" : 1615013464607,
+        "duration" : 14
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5ced0945c468d592",
+      "uid" : "76dd1c44a70e009a",
       "status" : "passed",
       "time" : {
-        "start" : 1615006665845,
-        "stop" : 1615006665849,
-        "duration" : 4
+        "start" : 1615013464623,
+        "stop" : 1615013464626,
+        "duration" : 3
       }
     } ]
   },
@@ -48,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7f396df9b48a4cc9",
+      "uid" : "51e14193eb3039f",
       "status" : "passed",
       "time" : {
-        "start" : 1615006665860,
-        "stop" : 1615006665865,
-        "duration" : 5
+        "start" : 1615013464640,
+        "stop" : 1615013464644,
+        "duration" : 4
       }
     } ]
   }
